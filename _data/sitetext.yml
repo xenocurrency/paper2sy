@@ -44,8 +44,8 @@ en: &DEFAULT_EN
     section: about
 
   contact:
-    title: "Contact Us"
-    text: "ISBN 발행 의뢰를 E-mail로 문의주세요"
+    title: "ISBN 발행 문의"
+    text: ""
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
