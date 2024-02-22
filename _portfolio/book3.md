@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 교양
   subtitle: 비전공 일반 독자용 도서
-  thumbnail: assets/img/3.jpg
+  thumbnail: assets/img/portfolio/3.jpg
   
 #what displays when the item is clicked:
 title: 교양
 subtitle: 비전공 일반 독자층을 대상으로 풀어쓴 도서
-image: assets/img/3.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/3.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

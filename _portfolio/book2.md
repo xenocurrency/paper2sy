@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 학술 전문 도서
   subtitle: 학술∙전문적인 내용의 도서
-  thumbnail: assets/img/2.jpg
+  thumbnail: assets/img/portfolio/2.jpg
   
 #what displays when the item is clicked:
 title: 학술 전문 도서
 subtitle: 학술 ∙ 전문적인 내용의 도서
-image: assets/img/2.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/2.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
