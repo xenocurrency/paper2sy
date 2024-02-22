@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: 실용 도서
   subtitle: 주로 실무에 관계된 실용적인 내용의 도서
-  thumbnail: assets/img/guidebook.png
+  thumbnail: assets/img/1.jpg
   
 #what displays when the item is clicked:
 title: 실용 도서
 subtitle: 주로 실무에 관계된 실용적인 내용의 도서
-image: assets/img/guidebook.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/1.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
