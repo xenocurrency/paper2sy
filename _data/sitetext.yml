@@ -63,8 +63,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "ISBN 발행 요청 - ISBN 1개당 16,000원" 
-    "입금처 : 카카오뱅크 3333-02-4258114 김주현"
-    text: ""
+    text: "카카오뱅크 3333-02-4258114 김주현"
     section: contact
     name: "입금자명*"
     name-validation: "Please enter your name."
