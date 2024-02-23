@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "ISBN 발행 양식"
+    - title: "세부 안내"
       section: about
     - title: "ISBN 발행 요청"
       section: contact
