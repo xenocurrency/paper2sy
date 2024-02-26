@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fas fa-clipboard-check
 
   portfolio:
-    title: "Portfolio"
-    text: "이젠 창작에만 집중하세요"
+    title: "서비스 상세 정보"
+    text: "요청 메일 발송 전에 읽어보세요"
     section: portfolio
     closebutton: "닫기"
 
