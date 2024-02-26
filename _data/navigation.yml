@@ -13,9 +13,9 @@ en: &DEFAULT_EN
   nav:
     - title: "Service"
       section: services
-    - title: "Portfolio"
+    - title: "상세 설명"
       section: portfolio
-    - title: "세부 안내"
+    - title: "요청 양식"
       section: about
     - title: "ISBN 발행 요청"
       section: contact
