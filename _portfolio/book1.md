@@ -14,8 +14,4 @@ alt: image alt text
 **종이지** 출판사 기본 정보
 
 - 발행처(국문) : 종이지
-- 출판신고번호 : 2023년 9월 7일 제2023-45호
-- 주소 : 경기 광주, 태전동로 11, 301동 1401호 (태전동, 이편한세상태전2차)
-- E-Mail : paper2sy@gmail.com
-- 홈페이지 : https://xenocurrency.github.io/paper2sy/
 
