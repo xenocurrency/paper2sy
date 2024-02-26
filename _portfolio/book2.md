@@ -11,7 +11,7 @@ image: assets/img/portfolio/academic_journal.png #main image, can be a link or a
 alt: image alt text
 
 ---
-**ISBN 발행 요청 전** 복사해서 입력해주세요
+**ISBN 발행 요청 시** 아래 항목을 입력해서 메일 보내주세요
 
 - 필수입력항목      
     - 1) 책제목 
