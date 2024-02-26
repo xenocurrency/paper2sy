@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: 이용약관
 subtitle: 이용약관
-image: assets/img/portfolio/culture.png #main image, can be a link or a file in assets/img/portfolio
+image:  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
