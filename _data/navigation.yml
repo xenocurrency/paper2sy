@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "요청 순서"
       section: about
-    - title: "ISBN 발행 요청"
+    - title: "출판 요청"
       section: contact
 
 en-US:
